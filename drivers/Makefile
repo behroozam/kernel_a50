@@ -206,4 +206,3 @@ obj-$(CONFIG_SENSORS_SSP) += sensorhub/
 obj-$(CONFIG_UH)		+= uh/
 
 obj-$(CONFIG_SEC_EXT)		+= samsung/
-obj-$(CONFIG_KSU) += kernelsu/

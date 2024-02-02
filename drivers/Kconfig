@@ -230,5 +230,4 @@ source "drivers/sensorhub/Kconfig"
 
 source "drivers/samsung/Kconfig"
 
-source "drivers/kernelsu/Kconfig"
 endmenu
